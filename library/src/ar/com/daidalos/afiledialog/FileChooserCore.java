@@ -396,7 +396,7 @@ class FileChooserCore {
 		}
 		
 		// Reload the list of files.
-		this.loadFolder(this.currentFolder);
+		//this.loadFolder(this.currentFolder);
 	}
 	
 	/**
@@ -435,7 +435,7 @@ class FileChooserCore {
 		this.showOnlySelectable = show;
 		
 		// Reload the list of files.
-		this.loadFolder(this.currentFolder);
+		//this.loadFolder(this.currentFolder);
 	}
 	
 	/**
